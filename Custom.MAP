@@ -1,0 +1,1006 @@
+3
++POINTOFINTEREST: 396 7 3 Gary's Room 
+-POINT: 365 13 3 Treasure Room [poison trap] 
+-POINT: 354 14 3 locks behind you 
+-TELEPORTER: 6236 15 0 to previous area 
+-TELEPORTER: 6236 15 1 to previous area 
+-STAIRS: 6319 20 0 Ladder A 
+-STAIRS: 6319 20 1 Ladder A 
++POINT: 103 21 3 fire beetles 
+-EXIT: 6173 21 0 Sanctuary 
+-EXIT: 6173 21 1 Sanctuary 
+-STAIRS: 6356 32 0 Ladder B 
+-STAIRS: 6356 32 1 Ladder B 
++POINT: 6221 37 0 Szavetra 
++POINT: 6221 37 1 Szavetra 
+-POINTOFINTEREST: 36 38 5 Guardian Statues 
+-POINT: 6276 40 0 Hole C 
+-POINT: 6276 40 1 Hole C 
+-TELEPORTER: 6243 41 0 debris path 
+-TELEPORTER: 6243 41 1 debris path 
+-POINT: 6327 46 0 spike deathtraps 
+-POINT: 6327 46 1 spike deathtraps 
++MOONGATE: 495 48 3 exit gate 
+-EXIT: 6376 51 0 Sanctuary Rear Exit [out only] 
+-EXIT: 6376 51 1 Sanctuary Rear Exit [out only] 
+-POINTOFINTEREST: 5822 52 0 mage tower 
+-POINTOFINTEREST: 5822 52 1 mage tower 
+-TELEPORTER: 6253 55 0 debris path 
+-TELEPORTER: 6253 55 1 debris path 
+-TELEPORTER: 6244 58 0 debris path 
+-TELEPORTER: 6244 58 1 debris path 
+-TELEPORTER: 6180 59 0 debris path 
+-TELEPORTER: 6180 59 1 debris path 
+-POINTOFINTEREST: 323 63 3 lever puzzle 
+-STAIRS: 6316 63 0 Ladder D 
+-STAIRS: 6316 63 1 Ladder D 
+-EXIT: 1788 66 2 Meer Catacombs 
++POINT: 2472 66 0 mining cave 
++POINT: 2472 66 1 mining cave 
+-POINT: 6251 69 0 Hole E 
+-POINT: 6251 69 1 Hole E 
+-POINT: 6523 71 0 landing point 
+-POINT: 6523 71 1 landing point 
+-POINT: 6576 72 0 landing point 
+-POINT: 6576 72 1 landing point 
+-POINT: 6165 73 0 Hole A 
+-POINT: 6165 73 1 Hole A 
+-EXIT: 6752 73 0 Lycaeum Basement 
+-EXIT: 6752 73 1 Lycaeum Basement 
+-EXIT: 6471 75 0 snake pit exit 
+-EXIT: 6471 75 1 snake pit exit 
+-POINT: 6476 75 0 Snake Pit 
+-POINT: 6476 75 1 Snake Pit 
+-POINT: 6568 77 0 down 
+-POINT: 6568 77 1 down 
+-POINT: 6368 79 0 spike deathtrap 
+-POINT: 6368 79 1 spike deathtrap 
++POINT: 6511 79 0 a crystal of prismatic amber 
++POINT: 6511 79 1 a crystal of prismatic amber 
++POINT: 6174 81 0 Moug-Guur 
++POINT: 6174 81 1 Moug-Guur 
++POINT: 6543 84 0 crystal daemons 
++POINT: 6543 84 1 crystal daemons 
+-POINTOFINTEREST: 6510 86 0 energy squiggle puzzle 
+-POINTOFINTEREST: 6510 86 1 energy squiggle puzzle 
+-TELEPORTER: 6261 87 0 debris path 
+-TELEPORTER: 6261 87 1 debris path 
+-POINT: 6503 87 0 landing point 
+-POINT: 6503 87 1 landing point 
++POINT: 6577 90 0 crystal hydras and sea serpents 
++POINT: 6577 90 1 crystal hydras and sea serpents 
+-POINTOFINTEREST: 6765 90 0 Book of Truth 
+-POINTOFINTEREST: 6765 90 1 Book of Truth 
+-POINT: 6569 91 0 damaging water spray 
+-POINT: 6569 91 1 damaging water spray 
++POINT: 946 92 5 flight path 
++POINT: 2441 94 0 mining cave 
++POINT: 2441 94 1 mining cave 
+-POINT: 6476 94 0 to snake pit 
+-POINT: 6476 94 1 to snake pit 
++POINT: 469 95 3 lamp post room 
+-POINT: 6262 95 0 camp entry 
+-POINT: 6262 95 1 camp entry 
+-POINT: 946 96 5 flight path 
+-TELEPORTER: 6176 96 0 debris path 
+-TELEPORTER: 6176 96 1 debris path 
+-EXIT: 6256 97 0 camp exit 
+-EXIT: 6256 97 1 camp exit 
+-EXIT: 6260 97 0 camp exit 
+-EXIT: 6260 97 1 camp exit 
+-EXIT: 6263 97 0 camp exit 
+-EXIT: 6263 97 1 camp exit 
+-EXIT: 6269 97 0 camp exit 
+-EXIT: 6269 97 1 camp exit 
+-EXIT: 6273 97 0 camp exit 
+-EXIT: 6273 97 1 camp exit 
+-POINT: 6469 97 0 down 
+-POINT: 6469 97 1 down 
+-SCENIC: 35 99 5 Main Chamber 
+-POINT: 52 99 5 hidden door 
+-POINT: 946 99 5 flight path 
++POINT: 946 102 5 flight path 
++POINT: 6256 102 0 Tiana the Guard 
++POINT: 6256 102 1 Tiana the Guard 
++POINT: 6277 104 0 Dallid the Cook 
++POINT: 6277 104 1 Dallid the Cook 
+-POINT: 6554 105 0 down 
+-POINT: 6554 105 1 down 
+-POINT: 6211 106 0 Hole B 
+-POINT: 6211 106 1 Hole B 
++POINT: 6255 107 0 Elder Onallan the Wise 
++POINT: 6255 107 1 Elder Onallan the Wise 
+-POINT: 6582 109 0 down 
+-POINT: 6582 109 1 down 
++POINT: 6257 110 0 Koole the Arcanist 
++POINT: 6257 110 1 Koole the Arcanist 
++POINT: 6243 111 0 Lorekeeper Rollarn the Keeper of Tradition 
++POINT: 6243 111 1 Lorekeeper Rollarn the Keeper of Tradition 
++TERRAIN: 926 114 4 Winter Spur 
++POINT: 6285 114 0 Beotham the Bowcrafter 
++POINT: 6285 114 1 Beotham the Bowcrafter 
+-POINTOFINTEREST: 1855 115 2 Exodus Generator 
+-POINT: 6555 116 0 landing point 
+-POINT: 6555 116 1 landing point 
++POINT: 6282 117 0 Danoel the Metal Weaver 
++POINT: 6282 117 1 Danoel the Metal Weaver 
++SCENIC: 2156 121 3 fountain 
++POINT: 6565 121 0 crystal vortexes and ice elementals 
++POINT: 6565 121 1 crystal vortexes and ice elementals 
++POINT: 6281 122 0 Tallinin the Cloth Weaver 
++POINT: 6281 122 1 Tallinin the Cloth Weaver 
+-EXIT: 4 124 3 Yomotsu Mines 
++POINT: 6521 124 0 Shimmering Effusion 
++POINT: 6521 124 1 Shimmering Effusion 
+-STAIRS: 6375 125 0 Ladder C 
+-STAIRS: 6375 125 1 Ladder C 
++POINT: 6251 126 0 Lorekeeper Oolua the Keeper of Tradition 
++POINT: 6251 126 1 Lorekeeper Oolua the Keeper of Tradition 
+-POINT: 6258 126 0 Yellienir the Bark Weaver 
+-POINT: 6258 126 1 Yellienir the Bark Weaver 
++POINT: 6266 127 0 Elder Brae the Wise 
++POINT: 6266 127 1 Elder Brae the Wise 
+-POINT: 6159 130 0 Hole D 
+-POINT: 6159 130 1 Hole D 
++POINT: 6274 130 0 Canir the Thaumaturgist 
++POINT: 6274 130 1 Canir the Thaumaturgist 
++POINT: 6379 130 0 Chiikkaha the Toothed 
++POINT: 6379 130 1 Chiikkaha the Toothed 
+-POINT: 381 131 3 Doom 
+-TELEPORTER: 6188 131 0 debris path 
+-TELEPORTER: 6188 131 1 debris path 
+-EXIT: 6502 137 0 exit 
+-EXIT: 6502 137 1 exit 
+-GRAVEYARD: 6190 140 0 graveyard 
+-GRAVEYARD: 6190 140 1 graveyard 
+-POINT: 6326 140 0 spike deathtraps 
+-POINT: 6326 140 1 spike deathtraps 
+-POINT: 6552 142 0 landing point 
+-POINT: 6552 142 1 landing point 
++POINT: 1614 143 3 Pouch [Secret Location 1] 
+-STAIRS: 6325 143 0 Ladder E? (currently not working) 
+-STAIRS: 6325 143 1 Ladder E? (currently not working) 
+-POINT: 6351 143 0 Landing Point E 
+-POINT: 6351 143 1 Landing Point E 
+-POINTOFINTEREST: 5757 144 1 white wyrm nest 
+-POINT: 6328 144 0 spike deathtrap 
+-POINT: 6328 144 1 spike deathtrap 
+-SCENIC: 399 156 5 Grand Hall 
+-POINTOFINTEREST: 336 157 5 Stygian Dragon Lair 
+-POINT: 6167 157 0 arrow trap 
+-POINT: 6167 157 1 arrow trap 
+-SCENIC: 143 158 5 Hidden Chamber 
++MOONGATE: 363 158 5 Stygian Dragon Entrance 
++POINT: 925 159 4 tunnel 
++POINT: 6539 159 0 crystal lattice seekers and wisps 
++POINT: 6539 159 1 crystal lattice seekers and wisps 
++POINT: 6578 160 0 to gypsy camp 
++POINT: 6578 160 1 to gypsy camp 
+-POINT: 6169 161 0 arrow trap 
+-POINT: 6169 161 1 arrow trap 
+-POINT: 6159 166 0 arrow trap 
+-POINT: 6159 166 1 arrow trap 
++POINT: 6510 169 0 unfrozen mummies and protectors 
++POINT: 6510 169 1 unfrozen mummies and protectors 
++POINT: 1554 172 3 Secret Location 2 
+-MOONGATE: 6537 175 0 to buried chamber 
+-MOONGATE: 6537 175 1 to buried chamber 
+-TELEPORTER: 6176 176 0 to next area 
+-TELEPORTER: 6176 176 1 to next area 
++POINT: 6577 176 0 back to dungeon 
++POINT: 6577 176 1 back to dungeon 
++POINT: 2427 177 0 mining cave 
++POINT: 2427 177 1 mining cave 
+-POINTOFINTEREST: 6589 178 0 enhanced arcane circle 
+-POINTOFINTEREST: 6589 178 1 enhanced arcane circle 
+-POINTOFINTEREST: 6535 180 0 giant crystal 
+-POINTOFINTEREST: 6535 180 1 giant crystal 
++POINT: 6575 181 0 Ramon the Vagabond 
++POINT: 6575 181 1 Ramon the Vagabond 
++POINT: 929 182 4 tunnel 
+-MOONGATE: 6515 184 0 back to dungeon 
+-MOONGATE: 6515 184 1 back to dungeon 
++HEALER: 6583 184 0 healer 
++HEALER: 6583 184 1 healer 
++POINT: 6575 186 0 Torrance the Iron Worker 
++POINT: 6575 186 1 Torrance the Iron Worker 
+-GEM: 951 187 5 Crimson Veins 
+-POINTOFINTEREST: 5443 187 0 mage tower 
+-POINTOFINTEREST: 5443 187 1 mage tower 
+-EXIT: 6471 188 0 Prism of Light 
+-EXIT: 6471 188 1 Prism of Light 
++POINT: 424 189 3 Bones [Secret Location 8] 
++LANDMARK: 910 192 3 Orc Camp 
++POINT: 914 192 3 Pouch [Secret Location 3] 
+-EXIT: 6650 192 0 Empath Abbey Catacombs 
+-EXIT: 6650 192 1 Empath Abbey Catacombs 
++POINT: 425 196 3 Victoria the Necromancer 
++POINT: 3921 202 0 ice cave 
++POINT: 3921 202 1 ice cave 
++POINT: 442 204 3 Bone Daemon 
+-EXIT: 34 237 5 Tomb of Kings 
++POINT: 417 246 3 Bell of the Dead 
++RUINS: 813 251 4 Linda 
+-TELEPORTER: 408 254 3 teleporter to The Gauntlet 
++POINT: 1991 263 0 mining cave 
++POINT: 1991 263 1 mining cave 
+-GEM: 875 276 5 Dragon's Lair Entrance 
++TERRAIN: 1185 286 4 Ozmand's Pillar 
++POINT: 4044 314 0 mining cave 
++POINT: 4044 314 1 mining cave 
+-TELEPORTER: 428 321 3 teleporter to shore 
++POINT: 1941 323 0 mining cave 
++POINT: 1941 323 1 mining cave 
++POINT: 2176 324 3 Pouch [Secret Location 2] 
+-MOONGATE: 433 325 3 exit gate 
+-EXIT: 6303 328 0 Palace of Paroxymous 
+-EXIT: 6303 328 1 Palace of Paroxymous 
+-POINT: 6224 335 0 landing point 
+-POINT: 6224 335 1 landing point 
+-EXIT: 64 337 3 Fan Dancer Dojo 
+-TELEPORTER: 80 338 5 Telepoter B 
++DOCKS: 372 338 4 docks 
+-EXIT: 6984 338 0 Heartwood 
+-EXIT: 6984 338 1 Heartwood 
+-TELEPORTER: 52 343 5 Teleporter B 
++SHRINE: 80 346 5 ankh 
+-STAIRS: 65 352 3 down 
+-POINT: 6237 352 0 acid 
+-POINT: 6237 352 1 acid 
+-TELEPORTER: 79 353 5 Teleporter D 
++TOWN: 7035 353 0 Heartwood 
++TOWN: 7035 353 1 Heartwood 
+-SCENIC: 6396 359 0 acid waterfall 
+-SCENIC: 6396 359 1 acid waterfall 
+-MOONGATE: 87 362 5 exit 
+-POINTOFINTEREST: 71 363 5 Stygian Dragon's Lair 
+-POINT: 6413 365 0 acid 
+-POINT: 6413 365 1 acid 
+-TELEPORTER: 40 366 5 Teleporter D 
+-TELEPORTER: 45 366 5 Teleporter C 
+-PROVISIONER: 494 367 3 Nix the Variety Dealer 
++POINT: 6518 370 0 Paroxymous' Island 
++POINT: 6518 370 1 Paroxymous' Island 
+-POINT: 433 371 3 hidden passage 
+-POINT: 6304 371 1 acid 
++POINT: 1919 374 0 mining cave 
++POINT: 1919 374 1 mining cave 
++HEALER: 374 377 3 healer [costs gold] 
+-TELEPORTER: 79 378 5 Teleporter A 
+-GEM: 989 380 5 Abyssal Lair 
+-TELEPORTER: 52 389 5 Teleporter A 
+-TELEPORTER: 81 399 5 Teleporter C 
++TERRAIN: 651 402 4 Sho Toh 
++SHRINE: 1107 404 2 Gargoyle Shrine of the Principles 
+-POINT: 393 405 3 only ghosts may pass 
++RUINS: 464 406 4 Wolf 
+-TELEPORTER: 390 407 3 exit to The Gauntlet 
+-POINTOFINTEREST: 6417 408 0 stepping stones 
+-POINTOFINTEREST: 6417 408 1 stepping stones 
++LANDMARK: 1401 416 3 Brigand Camp 
++CHAMPIDOL: 976 423 5 Abyssal Infernal Champion Spawn 
+-TELEPORTER: 471 428 3 teleporter into chamber 
+-POINT: 359 429 3 only opens from inside 
+-POINTOFINTEREST: 422 430 3 The Gauntlet 
++POINT: 331 432 3 Room 5: Abyssmal Horrors 
++POINT: 1185 432 3 Secret Location 9 
+-TELEPORTER: 361 433 3 teleporter into chamber 
+-POINT: 473 433 3 only opens from inside 
++POINT: 492 433 3 Room 1: Darknight Creepers 
++POINT: 636 433 4 tunnel 
++POINT: 425 434 3 Room 6: Dark Fathers 
++CHAMPIDOL: 948 437 4 Champ "Serado the Awakened" 
++POINT: 4065 439 0 mining cave 
++POINT: 4065 439 1 mining cave 
++POINT: 582 444 4 tunnel 
+-POINT: 6379 448 0 acid 
+-POINT: 6379 448 1 acid 
+-POINTOFINTEREST: 1076 451 3 Vault of Secrets 
+-MAGE: 908 452 3 Holy Mage Tower 
+-POINTOFINTEREST: 6389 454 0 stepping stones 
+-POINTOFINTEREST: 6389 454 1 stepping stones 
++POINT: 2604 455 0 mining cave 
++POINT: 2604 455 1 mining cave 
++TERRAIN: 951 459 4 Valley of the Sleeping Dragon 
+-POINTOFINTEREST: 6288 461 0 daemon chamber 
+-POINTOFINTEREST: 6288 461 1 daemon chamber 
+-SCENIC: 730 463 5 Gargish Ruins 
++POINT: 6294 471 0 Kodar the Lost Villager 
++POINT: 6294 471 1 Kodar the Lost Villager 
+-POINTOFINTEREST: 750 474 5 Chamber of Virtue 
+-TELEPORTER: 357 476 3 teleporter into chamber 
+-POINT: 361 477 3 only opens from inside 
+-POINT: 6321 477 0 damaging gasses 
+-POINT: 6321 477 1 damaging gasses 
++POINT: 6516 477 0 Paroxymous' Island 
++POINT: 6516 477 1 Paroxymous' Island 
+-POINTOFINTEREST: 6407 478 0 stepping stones 
+-POINTOFINTEREST: 6407 478 1 stepping stones 
+-GATE: 6518 492 0 iron gate 
+-GATE: 6518 492 1 iron gate 
+-TELEPORTER: 462 494 3 teleporter into chamber 
+-POINT: 469 495 3 only opens from inside 
++POINT: 635 497 4 tunnel 
+-STABLE: 1027 497 3 Proud Bridle 
+-POINT: 6331 497 0 acid [shortcut around daemons] 
+-POINT: 6331 497 1 acid [shortcut around daemons] 
++POINT: 2558 499 0 mining cave 
++POINT: 2558 499 1 mining cave 
+-TELEPORTER: 403 502 3 teleporter into chamber 
+-POINT: 409 503 3 only opens from inside 
++POINT: 338 506 3 Room 4: Shadow Knights 
++POINT: 6511 506 0 cauldron 
++POINT: 6511 506 1 cauldron 
++SHRINE: 1047 512 4 Shrine of Isamu 
+-POINT: 6308 512 0 damaging gasses 
+-POINT: 6308 512 1 damaging gasses 
++POINT: 475 515 3 Room 2: Flesh Renderers 
++POINT: 995 516 3 Gorrow the Mayor 
+-POINTOFINTEREST: 6502 519 0 stepping stones 
+-POINTOFINTEREST: 6502 519 1 stepping stones 
++TERRAIN: 545 520 4 Kitsune Woods 
+-SCENIC: 950 520 5 Cavern of the Discarded 
++POINT: 1326 523 3 Pouch [Secret Location 6] 
+-STAIRS: 60 524 3 up 
++POINT: 406 526 3 Room 3: Impalers 
+-TELEPORTER: 5868 527 0 to secret chamber 
+-TELEPORTER: 5868 527 1 to secret chamber 
++TERRAIN: 1195 529 4 Tsuki Garden 
++POINT: 76 545 3 succubus 
++POINT: 835 546 5 flight path 
++POINT: 951 546 3 Pouch [Secret Location 7] 
+-POINT: 835 551 5 flight path 
+-POINT: 835 556 5 flight path 
+-STAIRS: 103 557 3 down 
++SCENIC: 1322 559 0 Valentines' Park 
++SCENIC: 1322 559 1 Valentines' Park 
+-POINT: 835 561 5 flight path 
+-POINT: 835 566 5 flight path 
++DUNGEON: 1788 569 2 Terrort Zhelvesku [Rock Dungeon] 
+-POINT: 6396 571 0 acid 
+-POINT: 6396 571 1 acid 
+-POINT: 835 572 5 flight path 
++POINT: 513 576 5 Primeval Lich Champion Spawn 
+-POINTOFINTEREST: 6408 576 0 stepping stones 
+-POINTOFINTEREST: 6408 576 1 stepping stones 
+-POINT: 835 578 5 flight path 
++DUNGEON: 1040 580 2 Meer Catacombs 
+-GEM: 682 584 5 Passage of Tears 
+-POINT: 835 584 5 flight path 
+-POINTOFINTEREST: 934 590 3 tunnel through wall 
+-POINT: 835 591 5 flight path 
++POINTOFINTEREST: 408 594 4 Zen Maze 
++POINTOFINTEREST: 919 595 5 Sutek's Lab 
+-POINT: 835 597 5 flight path 
++RUINS: 141 598 4 John 
+-POINT: 835 603 5 flight path 
+-POINT: 835 609 5 flight path 
+-POINT: 788 612 5 flight path 
++POINT: 792 612 5 flight path 
+-POINT: 783 613 5 flight path 
+-POINT: 778 614 5 flight path 
++POINT: 835 614 5 flight path 
+-POINT: 773 616 5 flight path 
++POINT: 172 618 3 balron 
+-POINT: 769 619 5 flight path 
++LANDMARK: 2400 620 3 Brigand Camp 
+-POINT: 765 621 5 flight path 
++POINT: 829 621 5 flight path 
++POINT: 6282 621 0 Putrefier 
++POINT: 6282 621 1 Putrefier 
++POINT: 759 623 5 flight path 
+-POINT: 827 623 5 flight path 
+-POINT: 823 624 5 flight path 
+-POINT: 819 625 5 flight path 
+-TELEPORTER: 5704 625 0 to center of room 
+-TELEPORTER: 5704 625 1 to center of room 
++POINT: 815 627 5 flight path 
+-STAIRS: 5573 629 0 up 
+-STAIRS: 5573 629 1 up 
++TERRAIN: 167 630 4 Field of Echoes 
+-STAIRS: 5572 633 0 down 
+-STAIRS: 5572 633 1 down 
++RUINS: 892 646 4 Owen 
++LANDMARK: 1084 651 2 Blackthorn's Castle 
++POINT: 686 658 5 flight path 
++POINT: 172 661 3 oni 
+-TELEPORTER: 5699 662 0 to main dungeon 
+-TELEPORTER: 5699 662 1 to main dungeon 
+-POINT: 686 663 5 flight path 
+-POINT: 686 667 5 flight path 
+-POINT: 686 671 5 flight path 
+-POINT: 686 676 5 flight path 
+-POINT: 686 680 5 flight path 
++TERRAIN: 1163 683 4 Mount Sho 
+-POINT: 686 684 5 flight path 
++POINT: 102 688 3 succubi 
++POINT: 686 689 5 flight path 
+-STAIRS: 73 691 3 up 
++LANDMARK: 1205 700 3 Orc Camp 
++SHRINE: 295 711 4 Shrine of Homare 
++TERRAIN: 821 735 4 Lightest Dark 
+-STAIRS: 165 743 2 ratmen's basement 
++MOONGATE: 821 755 5 Entrance to Medusa's Lair 
++POINT: 677 759 5 flight path 
+-EXIT: 7152 760 0 Abyssal Infernal Champion Spawn 
+-POINT: 677 762 5 flight path 
++POINT: 677 764 5 flight path 
++LANDMARK: 1237 764 4 Belo Ondariva's Manor 
++DUNGEON: 2609 764 0 Solen Hive 
++DUNGEON: 2609 764 1 Solen Hive 
++DUNGEON: 1342 767 4 The Citadel (open crate) 
++POINT: 712 776 5 Coil 
++DUNGEON: 259 780 4 Yomotsu Mines 
+-GRAVEYARD: 5510 794 1 Grave of Gerold Tiggins 
+-GEM: 579 810 5 Enslaved Goblins 
++POINT: 2350 811 0 mining cave 
++POINT: 2350 811 1 mining cave 
++POINT: 864 812 3 Pouch [Secret Location 4] 
++TERRAIN: 377 813 4 Lightning Watch 
+-STAIRS: 639 815 2 stairs to basement 
++DUNGEON: 1725 815 0 Solen Hive 
++DUNGEON: 1725 815 1 Solen Hive 
++BODYOFWATER: 1040 830 4 Lotus Lakes 
++POINT: 2334 830 0 mining cave 
++POINT: 2334 830 1 mining cave 
+-GEM: 673 835 5 Skeletal Den 
++BODYOFWATER: 1688 840 2 Lenmir Anfinmotas 
+-POINT: 1071 847 5 pillar 
++POINT: 6511 847 0 Tangle 
++POINT: 6511 847 1 Tangle 
+-POINT: 6488 849 0 tree exit 
+-POINT: 6488 849 1 tree exit 
+-POINT: 1039 850 5 pillar 
++POINT: 1812 850 0 mining cave 
++POINT: 1812 850 1 mining cave 
++TELEPORTER: 1578 851 2 sparkles 
++POINT: 6534 851 0 Abscess 
++POINT: 6534 851 1 Abscess 
++POINT: 1180 860 5 Tyball's Shadow 
+-POINTOFINTEREST: 1056 863 5 Lair of Navery Night-Eyes 
+-EXIT: 6478 863 0 Blighted Grove 
+-EXIT: 6478 863 1 Blighted Grove 
++RUINS: 1214 864 4 Rondorin 
+-POINTOFINTEREST: 1180 866 5 Shrine of Truth 
+-TELEPORTER: 6588 867 0 tree exit 
+-TELEPORTER: 6588 867 1 tree exit 
+-TELEPORTER: 6472 868 0 tree entrance 
+-TELEPORTER: 6472 868 1 tree entrance 
++POINT: 6501 875 0 The Frightened Dryad 
++POINT: 6501 875 1 The Frightened Dryad 
++POINT: 6502 875 0 basket 
++POINT: 6502 875 1 basket 
++TELEPORTER: 613 876 0 Abbey Catacombs entrance (unusable) 
++TELEPORTER: 613 876 1 Abbey Catacombs entrance (unusable) 
+-POINT: 1039 879 5 pillar 
++POINT: 6260 880 0 Lurg and Grobu 
++POINT: 6260 880 1 Lurg and Grobu 
+-POINT: 6584 880 0 choking gas area 
+-POINT: 6584 880 1 choking gas area 
++TERRAIN: 1207 881 4 Hotaka Plains 
+-EXIT: 1078 882 5 exit 
++POINT: 6585 882 0 Saliva 
++POINT: 6585 882 1 Saliva 
++POINT: 2539 884 0 mining cave 
++POINT: 2539 884 1 mining cave 
+-MOONGATE: 1180 885 5 gate 
++POINT: 2572 887 0 mining cave 
++POINT: 2572 887 1 mining cave 
+-POINT: 6574 889 0 tree entrance 
+-POINT: 6574 889 1 tree entrance 
+-EXIT: 6311 892 0 Painted Caves 
+-EXIT: 6311 892 1 Painted Caves 
++POINT: 6537 895 0 Thrasher 
++POINT: 6537 895 1 Thrasher 
++POINT: 2455 896 0 mining cave 
++POINT: 2455 896 1 mining cave 
++TELEPORTER: 860 899 2 sparkles 
+-GEM: 592 903 5 Lava Caldera 
++POINT: 6512 907 0 Coil 
++POINT: 6512 907 1 Coil 
++TERRAIN: 1385 911 4 Mount Hakonu 
++POINT: 2383 914 0 mining cave 
++POINT: 2383 914 1 mining cave 
+-MOONGATE: 773 927 5 exit 
+-POINTOFINTEREST: 807 928 5 Medusa's Lair 
++SHRINE: 846 928 5 ankh 
++POINTOFINTEREST: 541 942 4 Inu the Crone's House 
++TERRAIN: 663 944 4 The Wastes 
++POINT: 6501 947 0 Melisande's Corrupted Roots 
++POINT: 6501 947 1 Melisande's Corrupted Roots 
+-EXIT: 6523 947 0 exit 
+-EXIT: 6523 947 1 exit 
+-TELEPORTER: 1141 952 5 teleporter 
++POINT: 4311 955 0 Darius the Wise 
++POINT: 4311 955 1 Darius the Wise 
+-POINTOFINTEREST: 1122 957 5 Font of Fortune 
++LANDMARK: 841 964 2 dam 
++POINT: 1150 964 5 Neville Brightwhistle 
++DUNGEON: 1733 967 3 The Labyrinth 
++TELEPORTER: 4322 968 1 teleporter to Basement 
++MOONGATE: 1775 970 3 gate to mainland 
+-POINT: 1081 974 5 Entrance to Navery's Lair 
++POINT: 1015 976 5 Vernix 
+-POINT: 1044 976 5 Flint's Logbook 
++POINT: 1189 989 5 Barreraak 
+-POINTOFINTEREST: 1059 991 5 Maze of Death 
++TELEPORTER: 535 992 0 Heartwood Entrance 
++TELEPORTER: 535 992 1 Heartwood Entrance 
++POINT: 529 993 0 Winn the Elven Emissary 
++POINT: 529 993 1 Winn the Elven Emissary 
++POINTOFINTEREST: 197 994 4 Lizardman Village 
++POINT: 1006 994 3 Secret Location 7 
++TERRAIN: 1740 994 0 Serpent's Pass 
++TERRAIN: 1740 994 1 Serpent's Pass 
++MOONGATE: 1169 998 4 Isamu-Jima Gate 
++POINT: 1014 1000 5 Xenrr 
+-SCENIC: 1203 1002 5 Grey Goblin Encampment 
++CHAMPIDOL: 7000 1003 0 Champ "Primeval Lich" 
+-SCENIC: 1036 1005 5 Green Goblin Encampment 
+-POINT: 1044 1017 5 Barrel of Barley 
++POINT: 1114 1024 5 flight path 
++POINT: 1068 1027 5 Puzzle Box 
+-POINT: 1114 1028 5 flight path 
++POINT: 1824 1029 0 mining cave 
++POINT: 1824 1029 1 mining cave 
+-POINT: 1114 1033 5 flight path 
++POINT: 1114 1037 5 flight path 
++POINT: 1204 1041 5 Jaacar 
+-TELEPORTER: 1043 1048 5 teleporter 
+-POINTOFINTEREST: 1003 1049 5 hidden chamber 
+-POINT: 1013 1049 5 magic vines 
+-SCENIC: 1243 1053 5 The Grand Staircase [Destroyed] 
++TERRAIN: 711 1055 4 Phoenix Mountains 
++POINT: 1070 1055 5 compass 
+-POINT: 1073 1055 5 rolled map [doubleclick to use] 
+-POINTOFINTEREST: 1059 1061 5 Maze of Death 
++POINT: 1019 1062 3 Secret Location 3 
++POINT: 984 1065 5 Reward Box 
++TERRAIN: 1162 1066 4 Storm Point 
+-POINT: 1114 1068 5 Goblin Traps 
+-TELEPORTER: 1012 1070 5 teleporter 
+-GRAVEYARD: 1218 1074 5 crypt 
++RUINS: 222 1079 4 Helen 
++RUINS: 1121 1082 4 Gerry 
+-POINT: 1056 1086 5 Goblin Traps 
+-POINTOFINTEREST: 985 1096 5 Experimental Chamber 
++DUNGEON: 3784 1098 0 Prism of Light 
++DUNGEON: 3784 1098 1 Prism of Light 
++POINT: 1064 1099 5 flight path 
++POINT: 1151 1100 5 flight path 
+-POINT: 1063 1101 5 flight path 
+-POINT: 1060 1103 5 flight path 
++POINT: 1052 1104 5 flight path 
+-POINT: 1056 1104 5 flight path 
+-POINT: 1151 1104 5 flight path 
++POINT: 3791 1104 0 Lefty the Ticket Seller 
++POINT: 3791 1104 1 Lefty the Ticket Seller 
+-POINT: 1151 1107 5 flight path 
+-POINT: 1151 1110 5 flight path 
+-TELEPORTER: 1008 1111 5 teleporter 
++POINT: 1151 1113 5 flight path 
++POINT: 1312 1114 3 Pouch [Secret Location 9] 
+-POINT: 995 1115 5 Experiment Guidebook 
++SHRINE: 1188 1116 5 ankh 
+-POINT: 1007 1119 5 hidden door 
+-POINT: 982 1123 5 Hitching Post [Stable] 
+-MOONGATE: 1187 1126 5 gate 
++LANDMARK: 2363 1126 3 Necromancer's Arena 
+-TELEPORTER: 1008 1128 5 teleporter 
++POINT: 1089 1128 5 Gretchen the Alchemist 
++POINT: 1104 1128 5 Elder Dugan the Prospector 
+-SCENIC: 1116 1130 5 Ariel Haven [Human Encampment] 
++POINT: 1121 1132 5 Fiddling Tobin the Tinkerer 
++POINT: 1135 1132 5 Quartermaster Flint 
+-TELEPORTER: 1011 1145 5 teleporter 
++POINT: 1110 1150 5 Puzzle Room Key [doubleclick for copy] 
+-TELEPORTER: 1239 1152 5 teleporter 
+-POINT: 1109 1153 5 book 
++POINT: 1719 1157 3 crystal (doubleclick to teleport to central island) 
++SHRINE: 718 1159 4 Shrine of Makoto 
++POINT: 1061 1161 3 Secret Location 4 
++POINT: 1128 1165 5 Garamon 
+-POINT: 1140 1165 5 hidden door 
++POINT: 2134 1166 2 Gnaw 
++POINTOFINTEREST: 636 1167 4 Saké Fountain 
+-EXIT: 405 1169 3 Ninja New Player Area [not in use] 
++POINT: 1097 1170 5 Puzzle Room 
+-TELEPORTER: 1187 1173 5 teleport maze D 
+-TELEPORTER: 1187 1175 5 teleport maze D 
+-TELEPORTER: 1184 1177 5 teleport maze C 
+-TELEPORTER: 1186 1177 5 from C / teleport maze E 
++POINT: 1197 1177 5 entire room is flight area 
++POINT: 2149 1178 2 cave 
+-POINT: 1183 1179 5 from G 
+-TELEPORTER: 1185 1179 5 teleport maze G 
+-POINT: 1186 1179 5 from E 
+-TELEPORTER: 1183 1180 5 teleport maze B 
+-POINT: 1188 1180 5 from H 
+-POINT: 1204 1181 5 from R 
+-TELEPORTER: 1206 1181 5 teleport maze R 
+-TELEPORTER: 1183 1182 5 teleport maze B 
+-TELEPORTER: 1188 1182 5 teleport maze H 
+-TELEPORTER: 1184 1183 5 teleport maze F 
+-POINT: 1185 1183 5 from F 
+-POINT: 1190 1183 5 from I 
+-TELEPORTER: 1192 1183 5 teleport maze J 
+-POINT: 1194 1183 5 from J 
+-TELEPORTER: 1202 1183 5 teleport maze Q 
+-POINT: 1064 1184 5 magic vines 
+-TELEPORTER: 1190 1185 5 teleport maze I 
+-POINT: 1202 1185 5 from Q 
+-POINT: 1190 1186 5 from K 
+-TELEPORTER: 1192 1186 5 teleport maze K 
+-POINT: 1201 1186 5 from O 
+-TELEPORTER: 1183 1187 5 teleport maze A 
+-TELEPORTER: 1196 1187 5 teleport maze L 
+-TELEPORTER: 1198 1187 5 teleport maze L 
+-TELEPORTER: 1200 1187 5 teleport maze N 
++TERRAIN: 294 1189 4 Defiance Point 
+-TELEPORTER: 1183 1189 5 teleport maze A 
+-POINT: 1195 1189 5 from M 
+-TELEPORTER: 1197 1189 5 teleport maze M 
+-TELEPORTER: 1201 1189 5 teleport maze O 
+-POINT: 1200 1190 5 from N 
+-POINT: 1201 1190 5 from P 
+-TELEPORTER: 1203 1190 5 teleport maze P 
++SCENIC: 6560 1195 1 Dark Knight Arena 
++POINTOFINTEREST: 6614 1195 1 Dark Knight Waiting Room 
+-POINTOFINTEREST: 1068 1196 5 hidden chamber 
++POINT: 760 1200 4 Ansella Gryen 
++MOONGATE: 802 1204 4 Makoto-Jima Gate 
++MOONGATE: 3524 1205 0 Moongate 
++MOONGATE: 3524 1205 1 Moongate 
++SHRINE: 1122 1206 5 Stone Memorial 
++POINT: 2157 1206 2 Lady Lissith 
++POINT: 2131 1208 2 Guile 
+-INN: 683 1210 4 Miyabi Inn 
++POINT: 2177 1210 2 Lady Sabrix 
+-EXIT: 1129 1213 5 The Great Stygian Abyss 
+-BRASS: 735 1215 4 Suteki Na Craftworks 
+-TAVERN: 694 1220 4 Saké Saka Tavern 
+-HEALER: 782 1220 4 Satori Healing Garden 
++POINT: 2225 1220 2 Swoop 
++POINT: 2148 1223 2 Irk 
++POINT: 2176 1233 2 Spite 
++POINTOFINTEREST: 2023 1237 3 tomb 
++POINT: 1074 1244 3 Secret Location 5 
+-BANK: 731 1251 4 Bank 
++POINT: 1265 1251 0 mining cave 
++POINT: 1265 1251 1 mining cave 
+-EXIT: 2187 1251 2 Twisted Weald 
++TOWN: 748 1252 4 Zento 
++POINT: 2170 1255 2 Statue of the Faie 
+-BLACKSMITH: 776 1256 4 Mibu BlackSmith 
++CHAMPIDOL: 2210 1260 2 Champ "Twaulo of the Glade" 
+-LIBRARY: 681 1262 4 Rokuon Cultural Center and Shops 
+-BRASS: 704 1262 4 Koku Kitchens 
++POINT: 3786 1263 0 Beluah the Scorned 
++POINT: 3786 1263 1 Beluah the Scorned 
++POINT: 678 1277 4 Ihara Soko the Imperial Minister of Trade 
+-STABLE: 788 1278 4 Yume Stables 
+-PROVISIONER: 731 1283 4 Zento Provides 
+-MAGE: 690 1299 4 Sasara Magical Supplies and Remedies 
+-BOWYER: 782 1303 4 Kagome Bowyer 
+-BRASS: 753 1304 4 Iroha Armorer and Musha-Shugyo Dojo 
++POINT: 1214 1313 3 Secret Location 1 
++LANDMARK: 1255 1325 3 Orc Camp 
++POINT: 1244 1338 3 tunnel 
++MOONGATE: 1532 1340 2 Spirituality Moongate 
+-EXIT: 6993 1370 0 Primeval Lich Champion Spawn 
++DUNGEON: 2069 1372 3 Bedlam (doubleclick Iron Maiden) 
++POINT: 1268 1376 3 tunnel 
++POINT: 1268 1396 3 tunnel 
++POINT: 1199 1416 3 tunnel 
++POINT: 1237 1416 3 tunnel 
++TELEPORTER: 466 1422 2 ruddy rock [say "roclasmpy" to teleport to Shrine of Companionship] 
+-INN: 1055 1433 3 Hanse's Hostel 
++POINT: 1051 1434 3 Pouch [Secret Location 5] 
++DUNGEON: 731 1452 0 Solen Hive 
++DUNGEON: 731 1452 1 Solen Hive 
++POINT: 356 1460 0 mining cave 
++POINT: 356 1460 1 mining cave 
++POINT: 2120 1460 3 tunnel 
++POINT: 1116 1461 3 tunnel 
++DUNGEON: 1450 1470 2 Twisted Weald 
++POINT: 2333 1501 3 Secret Location 8 
++POINT: 2108 1502 3 tunnel 
+-POINTOFINTEREST: 1515 1521 1 Volunteer Memorial [most shards] 
+-EXIT: 628 1526 2 Wisp Dungeon 
++POINT: 1201 1554 3 Secret Location 6 
++POINT: 1453 1554 1 Francis the Chapman 
++POINT: 1443 1558 0 Gabriel Piete the Renowned Minstrel 
++POINT: 1443 1558 1 Gabriel Piete the Renowned Minstrel 
++POINT: 996 1600 0 mining cave 
++POINT: 996 1600 1 mining cave 
++POINT: 1318 1604 1 Pepta the Royal Tastetester 
++POINT: 1410 1608 1 Verity the Librarian 
+-STAIRS: 158 1612 3 up 
++POINT: 1367 1618 1 Regina the Noble 
++POINT: 105 1619 3 Bedlam Library 
++POINT: 1424 1619 1 Sarakki the Notary 
++POINT: 2037 1619 3 tunnel 
++CHAMPIDOL: 175 1629 3 Champ "Ilhenir the Stained" 
++DUNGEON: 588 1637 0 Blighted Grove 
++DUNGEON: 588 1637 1 Blighted Grove 
++POINT: 112 1643 3 Red Death 
++DUNGEON: 770 1647 0 Sanctuary 
++DUNGEON: 770 1647 1 Sanctuary 
++POINT: 557 1658 0 Jamal the Fisherman 
++POINT: 557 1658 1 Jamal the Fisherman 
++POINT: 1448 1665 1 Emilio the Tortured Artist 
+-STAIRS: 83 1673 3 down 
++POINT: 801 1682 0 Sanctuary Rear Exit [out only] 
++POINT: 801 1682 1 Sanctuary Rear Exit [out only] 
++POINT: 1496 1683 1 Maribel the Waitress [wanders] 
+-EXIT: 121 1684 3 Bedlam 
++POINT: 772 1694 0 mining cave 
++POINT: 772 1694 1 [cave sealed on most shards] 
++POINT: 1483 1700 1 Evan the Beggar 
++POINT: 178 1739 3 Bedlam Library 
+-POINTOFINTEREST: 1398 1739 0 Despise Invasion Memorial 
+-POINTOFINTEREST: 1398 1739 1 Despise Invasion Memorial 
++POINT: 592 1745 0 Strongroot 
++POINT: 592 1745 1 Strongroot 
++POINT: 2065 1751 3 tunnel 
+-EXIT: 5655 1792 0 Solen Hive [Yew] 
+-EXIT: 5655 1792 1 Solen Hive [Yew] 
+-POINT: 5757 1795 0 Solen Tunnel H 
+-POINT: 5757 1795 1 Solen Tunnel H 
+-EXIT: 5919 1796 0 Solen Hive [Minoc] 
+-EXIT: 5919 1796 1 Solen Hive [Minoc] 
+-POINTOFINTEREST: 5874 1800 0 Solen Nest 
+-POINTOFINTEREST: 5874 1800 1 Solen Nest 
+-POINTOFINTEREST: 5454 1802 0 dragon's lair 
+-POINTOFINTEREST: 5457 1813 1 Sudiva's lair 
+-POINTOFINTEREST: 5743 1814 0 Solen Nest 
+-POINTOFINTEREST: 5743 1814 1 Solen Nest 
++LANDMARK: 1598 1818 3 Orc Camp 
+-SCENIC: 5780 1831 0 Zoogi garden 
+-SCENIC: 5780 1831 1 Zoogi garden 
+-STAIRS: 5596 1841 0 down to dragon's lair 
+-STAIRS: 5596 1841 1 down to Sudiva's lair 
+-TERRAIN: 5889 1842 0 sinkhole 
+-TERRAIN: 5889 1842 1 sinkhole 
+-TERRAIN: 5708 1844 0 sinkhole 
+-TERRAIN: 5708 1844 1 sinkhole 
+-POINT: 5853 1849 0 Solen Tunnel B 
+-POINT: 5853 1849 1 Solen Tunnel B 
+-POINT: 140 1859 3 Hidden Passage E 
+-EXIT: 5735 1861 0 Solen Hive [Green Thorn entrance/exit] 
+-EXIT: 5735 1861 1 Solen Hive [Green Thorn entrance/exit] 
+-POINT: 5772 1868 0 Solen Tunnel B 
+-POINT: 5772 1868 1 Solen Tunnel B 
+-POINT: 5872 1868 0 Solen Tunnel A 
+-POINT: 5872 1868 1 Solen Tunnel A 
+-POINTOFINTEREST: 5666 1869 0 Secret Solen Nest 
+-POINTOFINTEREST: 5666 1869 1 Secret Solen Nest 
+-TELEPORTER: 123 1870 3 teleporter to first chamber 
+-POINT: 77 1871 3 Hidden Passage C  (use switch on west wall) 
+-POINT: 181 1873 3 spike deathtraps 
+-POINT: 156 1874 3 Hidden Passage E 
+-POINT: 71 1876 3 switch for door C 
+-STAIRS: 124 1877 3 Stairs E 
+-POINT: 5898 1878 0 Solen Tunnel A 
+-POINT: 5898 1878 1 Solen Tunnel A 
+-TELEPORTER: 85 1880 3 teleporter to first chamber 
+-POINT: 174 1880 3 trapdoor 
+-EXIT: 106 1881 3 The Citadel 
+-STAIRS: 83 1882 3 Stairs G 
++POINT: 90 1884 3 keyed table 
+-POINT: 71 1890 3 Hidden Passage A (use switch) 
++POINT: 345 1890 3 Rend 
+-POINT: 103 1891 3 Hidden Passage B 
+-POINT: 181 1892 3 spike deathtraps 
+-POINT: 5877 1892 0 Solen Tunnel C 
+-POINT: 5877 1892 1 Solen Tunnel C 
+-STAIRS: 175 1894 3 Stairs C 
+-POINT: 5914 1894 0 Solen Tunnel D 
+-POINT: 5914 1894 1 Solen Tunnel D 
+-POINT: 5728 1895 0 Solen Tunnel H 
+-POINT: 5728 1895 1 Solen Tunnel H 
+-POINT: 5748 1896 0 Solen Tunnel G 
+-POINT: 5748 1896 1 Solen Tunnel G 
++POINT: 5776 1898 0 Solen Matriarch 
++POINT: 5776 1898 1 Solen Matriarch 
+-POINT: 5659 1899 0 Solen Tunnel G 
+-POINT: 5659 1899 1 Solen Tunnel G 
+-STAIRS: 143 1901 3 Stairs A 
+-POINT: 123 1903 3 Hidden Passage C 
+-POINT: 5810 1906 0 Solen Tunnel C 
+-POINT: 5810 1906 1 Solen Tunnel C 
+-STAIRS: 115 1907 3 Stairs D 
+-POINT: 73 1909 3 Hidden Passage A 
+-SCENIC: 5831 1912 0 giant beetle pen 
+-SCENIC: 5831 1912 1 giant beetle pen 
+-POINT: 175 1914 3 Hidden Passage F 
+-TELEPORTER: 137 1916 3 teleporter to first chamber 
+-STAIRS: 91 1917 3 Stairs A 
+-POINT: 100 1918 3 Hidden Passage B 
+-STAIRS: 119 1918 3 Stairs D 
+-STAIRS: 162 1918 3 Stairs E 
+-TELEPORTER: 90 1919 3 teleporter to first chamber 
++POINT: 337 1919 3 Miasma 
++POINT: 142 1920 3 Black Order Master Thief 
+-STAIRS: 90 1921 3 Stairs B 
+-POINTOFINTEREST: 5802 1922 0 water vats 
+-POINTOFINTEREST: 5802 1922 1 water vats 
+-TERRAIN: 5887 1922 0 sinkhole 
+-TERRAIN: 5887 1922 1 sinkhole 
+-STAIRS: 162 1923 3 Stairs F 
+-STAIRS: 102 1925 3 Stairs C 
++CHAMPIDOL: 415 1925 3 Champ "Meraktus the Tormented" 
+-POINTOFINTEREST: 5670 1926 0 water purifier 
+-POINTOFINTEREST: 5670 1926 1 water purifier 
+-POINT: 123 1927 3 Hidden Passage D 
+-POINT: 135 1928 3 Hidden Passage D 
+-POINT: 5701 1930 0 Solen Tunnel E 
+-POINT: 5701 1930 1 Solen Tunnel E 
+-POINT: 5785 1930 0 Solen Tunnel E 
+-POINT: 5785 1930 1 Solen Tunnel E 
+-POINTOFINTEREST: 5914 1931 0 Solen Nest 
+-POINTOFINTEREST: 5914 1931 1 Solen Nest 
+-STAIRS: 181 1933 3 Stairs G 
+-POINTOFINTEREST: 5736 1938 0 Solen Nest 
+-POINTOFINTEREST: 5736 1938 1 Solen Nest 
++POINT: 138 1948 3 Black Order Grand Mage 
+-POINT: 144 1950 3 Hidden Passage F 
+-POINT: 182 1950 3 trapdoor landing point 
+-POINT: 5712 1953 0 Solen Tunnel F 
+-POINT: 5712 1953 1 Solen Tunnel F 
++POINT: 85 1954 3 Travesty's Inner Quarters 
+-POINT: 5658 1955 0 Solen Tunnel F 
+-POINT: 5658 1955 1 Solen Tunnel F 
+-EXIT: 115 1956 3 exit 
+-TELEPORTER: 146 1961 3 telepoter to entrance 
+-SCENIC: 5768 1961 0 dread spider nest 
+-SCENIC: 5768 1961 1 dread spider nest 
+-STAIRS: 130 1971 3 Stairs F 
+-EXIT: 328 1972 3 The Labyrinth 
+-STAIRS: 159 1975 3 Stairs B 
++POINT: 170 1975 3 Black Order High Executioner 
+-POINT: 177 1975 3 spike deathtraps 
+-POINTOFINTEREST: 5477 1986 0 dread spider nest 
+-POINTOFINTEREST: 5477 1986 1 dread spider nest 
++POINT: 5790 1988 0 Ambituous Solen Queen 
++POINT: 5790 1988 1 Ambituous Solen Queen 
+-SCENIC: 5838 1991 0 giant beetle pen 
+-SCENIC: 5838 1991 1 giant beetle pen 
+-POINT: 5815 2016 0 Solen Tunnel D 
+-POINT: 5815 2016 1 Solen Tunnel D 
+-EXIT: 5656 2019 0 Solen Hive [Trinsic] 
+-EXIT: 5656 2019 1 Solen Hive [Trinsic] 
+-TERRAIN: 5784 2022 0 sinkhole 
+-TERRAIN: 5784 2022 1 sinkhole 
+-EXIT: 5920 2022 0 Solen Hive [Serpent's Pass] 
+-EXIT: 5920 2022 1 Solen Hive [Serpent's Pass] 
++SCENIC: 6783 2175 0 Destroyed Moonglow 
++SCENIC: 6783 2175 1 Destroyed Moonglow 
++MDBOATS: 683 2236 0 ferry [say "I wish to cross"] 
++MDBOATS: 683 2236 1 ferry [say "I wish to cross"] 
++MDBOATS: 710 2236 0 ferry [say "I wish to cross"] 
++MDBOATS: 710 2236 1 ferry [say "I wish to cross"] 
++POINT: 3651 2517 1 Drelgor the Impaler Spawn 
++POINTOFINTEREST: 1134 2596 0 Minax Stronghold 
++POINT: 1260 2652 0 mining cave 
++POINT: 1260 2652 1 mining cave 
++POINT: 1116 2663 0 mining cave 
++POINT: 1116 2663 1 mining cave 
++POINT: 1368 2730 1 Ricardo's Hideout 
++POINT: 1368 2730 0 mining cave 
++DUNGEON: 1691 2790 0 Solen Hive 
++DUNGEON: 1691 2790 1 Solen Hive 
++POINT: 1500 2830 0 mining cave 
++POINT: 1500 2830 1 mining cave 
++POINT: 571 2880 5 flight path 
+-POINT: 568 2886 5 flight path 
++POINT: 565 2892 5 flight path 
++POINT: 1421 2896 0 mining cave 
++POINT: 1421 2896 1 mining cave 
++POINT: 1662 2937 1 Valley Tunnel 
++DUNGEON: 1711 2995 0 Painted Caves 
++DUNGEON: 1711 2995 1 Painted Caves 
++DUNGEON: 5578 3018 0 Palace of Paroxymous 
++DUNGEON: 5578 3018 1 Palace of Paroxymous 
++POINT: 5595 3021 0 Lucius the Adventurer 
++POINT: 5595 3021 1 Lucius the Adventurer 
++POINT: 5623 3038 0 Palace of Paroxymous Exit 
++POINT: 5623 3038 1 Palace of Paroxymous Exit 
++SCENIC: 631 3040 5 Harbor Village 
++POINTOFINTEREST: 565 3063 5 Ter-hur Via Ante [Skyway Entrance] 
++POINTOFINTEREST: 1053 3063 5 Ter-hur Via Ante [Skyway Entrance] 
++POINT: 1021 3089 5 flight path 
+-POINT: 1020 3092 5 flight path 
++POINT: 1020 3095 5 flight path 
++POINT: 963 3131 5 flight path 
+-POINT: 968 3133 5 flight path 
+-POINT: 971 3135 5 flight path 
++POINT: 974 3138 5 flight path 
++POINT: 711 3160 5 flight path 
+-POINT: 709 3162 5 flight path 
++POINT: 707 3165 5 flight path 
++SCENIC: 4129 3168 1 Volcano 
++POINT: 4554 3172 0 mining cave 
++POINT: 4554 3172 1 mining cave 
++POINT: 577 3208 5 flight path 
+-POINT: 577 3210 5 flight path 
+-POINT: 575 3213 5 flight path 
+-POINT: 572 3216 5 flight path 
++POINT: 569 3219 5 flight path 
++POINT: 560 3230 5 flight path 
+-POINT: 560 3234 5 flight path 
+-POINT: 560 3238 5 flight path 
+-POINT: 560 3242 5 flight path 
++POINT: 560 3246 5 flight path 
++DUNGEON: 4194 3251 1 The Great Stygian Abyss 
++POINT: 4592 3303 0 mining cave 
++POINT: 4592 3303 1 mining cave 
++POINT: 645 3330 5 Silem the Fence 
++POINTOFINTEREST: 1053 3336 5 Ter-hur Via Ante [Skyway Entrance] 
+-MAGE: 823 3360 5 Mysterious Magics 
++SCENIC: 5790 3376 0 Minax Stronghold Ruins 
++LANDMARK: 750 3378 5 Royal Palace 
+-TANNER: 806 3388 5 Tanner 
++POINT: 802 3395 5 Laifem the Weaver 
++POINT: 660 3403 5 Axem the Curator 
++SCENIC: 626 3405 5 Refugee Camp 
+-BRASS: 660 3418 5 Museum of Wonders 
++POINT: 807 3425 5 Agralem the Bladeweaver 
++POINT: 799 3428 5 Aurvidlem the Artificer 
++POINT: 710 3429 5 Percolem the Hunter 
+-CARPENTER: 820 3429 5 Stonecrafter 
++POINT: 793 3434 5 Beninort the Artificer 
++POINT: 799 3434 5 Ansikart the Artificer 
+-POINTOFINTEREST: 716 3435 5 Open-Air Market 
++POINT: 816 3438 5 Aliabeth the Tinker 
++POINTOFINTEREST: 565 3450 5 Ter-hur Via Ante [Skyway Entrance] 
++POINTOFINTEREST: 702 3450 5 Ter-hur Via Ante [Skyway Entrance] 
++TOWN: 750 3450 5 Pri-lem Op [Royal City] 
++POINT: 771 3475 5 Thepem the Apprentice 
++POINT: 771 3477 5 Zosilem the Alchemist 
+-BRASS: 670 3479 5 The Great Library 
++POINT: 781 3481 5 Ortlem the Mystic 
++SCENIC: 885 3484 5 Refugee Camp 
++POINT: 836 3508 5 Exwegem the Noble 
+-BRASS: 702 3517 5 The Schoolyard 
++MOONGATE: 852 3527 5 Rel-por Ter Mur [Ter Mur Moongate] 
++SCENIC: 815 3560 5 Refugee Camp 
++SCENIC: 1112 3585 5 Crumbling Village 
++POINT: 4813 3636 0 mining cave 
++POINT: 4813 3636 1 mining cave 
++POINTOFINTEREST: 1032 3660 5 Ter-hur Via Ante [Skyway Entrance] 
++POINT: 4816 3662 0 mining cave 
++POINT: 4816 3662 1 mining cave 
++SCENIC: 1109 3733 5 Spider's Nest 
++POINT: 1279 3734 0 Skeleton of Szandor the Late Architect 
++POINT: 1279 3734 1 Skeleton of Szandor the Late Architect 
++POINTOFINTEREST: 702 3741 5 Ter-hur Via Ante [Skyway Entrance] 
++POINTOFINTEREST: 1032 3741 5 Ter-hur Via Ante [Skyway Entrance] 
++POINT: 1349 3755 0 Iosep the Exporter 
++POINT: 1349 3755 1 Iosep the Exporter 
++POINT: 4766 3770 0 mining cave 
++POINT: 4766 3770 1 mining cave 
++POINTOFINTEREST: 996 3803 5 Shrine of Singularity 
++POINT: 4605 3823 0 mining cave 
++POINT: 4605 3823 1 mining cave 
++POINT: 1009 3826 5 flight path 
+-POINT: 1011 3829 5 flight path 
+-POINT: 1013 3832 5 flight path 
+-POINT: 1013 3835 5 flight path 
+-POINT: 1013 3839 5 flight path 
++SCENIC: 1094 3839 5 vanishing lake 
+-POINT: 1011 3843 5 flight path 
++POINT: 1009 3846 5 flight path 
++POINT: 946 3867 5 Farmer Nash 
++POINT: 1045 3867 5 Farmer Krill 
+-BRASS: 1090 3886 5 Lensmaker 
++SCENIC: 904 3890 5 lava pools 
++SCENIC: 1114 3890 5 lava pool 
+-BRASS: 944 3924 5 Caretaker 
++POINT: 1015 3936 5 Naxatilor the Seer 
++TOWN: 997 3937 5 Om-de Op [Holy City] 
++POINT: 1098 3953 5 Beh Lem and Valkadesh 
++LANDMARK: 997 3978 5 Hall of Knowledge 
+-BRASS: 915 4000 5 Snake Charmer 
++SCENIC: 1032 4013 5 lava pool
++DUNGEON: 1701 1638 3 Wreck of the Ararat

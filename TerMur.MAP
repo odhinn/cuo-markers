@@ -1,0 +1,41 @@
+3
+-MOONGATE: 36 27 5 Entrance to The Great Stygian Abyss 
+-MOONGATE: 946 69 5 Tomb of Kings Exit 
++GATE: 36 205 5 Serpent's Breath Gate 
++LANDMARK: 26 211 5 "Ord" 
++LANDMARK: 43 211 5 "An Ord" 
++SHRINE: 344 614 5 Silver Sapling 
+-GEM: 575 642 5 Lands of The Lich 
+-GEM: 443 713 5 Secret Garden 
+-GEM: 523 758 5 Fire Temple Ruins 
+-STAIRS: 558 882 5 Stairs 
+-STAIRS: 523 924 5 Exit to Upper Level 
+-STAIRS: 1133 1078 5 Spiral into The Abyss 
+-TELEPORTER: 1163 1121 5 Teleporter 
+-POINT: 1136 1166 5 hidden door 
+-SCENIC: 768 3318 5 Falls Park 
+-STAIRS: 701 3334 5 Stairs 
+-SCENIC: 704 3364 5 Waterfall 
+-TAILOR: 806 3399 5 Tailor 
+-STABLE: 852 3408 5 Ter Mur Stables 
+-STAIRS: 821 3410 5 Stairs 
+-BLACKSMITH: 817 3420 5 Blacksmith 
+-JEWELER: 781 3431 5 Jeweler 
+-POINTOFINTEREST: 796 3431 5 Public Soulforge 
+-TINKER: 820 3440 5 Tinker 
+-BANK: 842 3440 5 Royal Bank 
+-BRASS: 795 3449 5 Farmer's Market 
+-BUTCHER: 819 3460 5 Butcher 
+-LIBRARY: 775 3468 5 Scribe 
+-INN: 740 3473 5 Ter Mur Inn 
+-REAGENTS: 775 3476 5 Alchemist 
+-MAGE: 775 3485 5 Mage 
+-HEALER: 784 3493 5 Healer 
+-PROVISIONER: 798 3493 5 Provisioner 
+-BAKER: 808 3493 5 Baker 
+-BARD: 722 3526 5 Bard 
++DUNGEON: 997 3837 5 Tomb of Kings Entrance 
+-BAKER: 977 3883 5 Cook 
+-ARMS: 1017 3883 5 Weaponsmith 
+-TINKER: 977 3910 5 Goodscrafter 
+-HEALER: 1017 3910 5 Healer 

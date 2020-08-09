@@ -1,0 +1,68 @@
+424,195,3,NPC: Victoria,interest,yellow,5
+678,1277,4,Ihara Soko,interest,yellow,5
+5592,3020,0,NPC: Lucius,interest,yellow,5
+3792,1105,0,NPC: Lefty,interest,yellow,5
+561,1650,0,NPC: Jamal,interest,yellow,5
+5592,3020,1,NPC: Lucius,interest,yellow,5
+3792,1105,1,NPC: Lefty,interest,yellow,5
+561,1650,1,NPC: Jamal,interest,yellow,5
+2102,1374,3,NPC: Aernya,interest,yellow,5
+1422,1619,1,NPC: Sarakki,interest,yellow,5
+7062,352,1,NPC: Aeluva[Spellweaving],interest,yellow,5
+6253,112,0,NPC: Koole[Spellweaving],interest,yellow,5
+4310,953,0,NPC: Darius[to Elf],interest,yellow,5
+2958,3472,0,NPC: Nedrick[to Human],interest,yellow,5
+6253,112,1,NPC: Koole[Spellweaving],interest,yellow,5
+4310,953,1,NPC: Darius[to Elf],interest,yellow,5
+2958,3472,1,NPC: Nedrick[to Human],interest,yellow,5
+2254,1209,0,NPC: Vela The Sorceress [Voidpool Trade],interest,yellow,5
+2254,1209,1,NPC: Vela The Sorceress [Voidpool Trade],interest,yellow,5
+1436,1761,0,NPC: Trade Minister,interest,yellow,5
+1377,3879,0,NPC: Trade Minister,interest,yellow,5
+2499,397,0,NPC: Trade Minister,interest,yellow,5
+4415,1044,0,NPC: Trade Minister,interest,yellow,5
+3677,2253,0,NPC: Trade Minister,interest,yellow,5
+645,2227,0,NPC: Trade Minister,interest,yellow,5
+2061,2854,0,NPC: Trade Minister,interest,yellow,5
+3003,834,0,NPC: Trade Minister,interest,yellow,5
+621,1041,0,NPC: Trade Minister,interest,yellow,5
+262,1744,5,NPC: Sir Geoffrey,interest,yellow,5
+684,1868,5,NPC: Hawkwind,interest,yellow,5
+647,1706,5,NPC: Barako High Chief,interest,yellow,5
+720,2094,5,NPC: Jukari High Chief,interest,yellow,5
+364,1850,5,NPC: The Kuraku High Chief,interest,yellow,5
+416,1577,5,NPC: Urali High Chieftess,interest,yellow,5
+556,1428,5,NPC: Sakkhra High Chieftess,interest,yellow,5
+1506,1450,1,Book(DH)1F,point,yellow,5
+1513,1450,1,Book(DH)1F,point,yellow,5
+1492,1441,1,Book(DH)1F,point,yellow,5
+1505,1474,1,Book(DH)2F,point,yellow,5
+1549,1431,1,Book(DH)1F,point,yellow,5
+1553,1431,1,Book(DH)2F,point,yellow,5
+1541,1361,1,Book(DH),point,yellow,5
+1505,1465,1,Book(DH)2F,point,yellow,5
+2747,882,0,Damaged Headstone(Forensic),point,yellow,5
+2762,848,0,Hidden door(DH-Forensic)(moriens),point,yellow,5
+6154,2898,0,Exit to Yew Cemetery,exit,yellow,5
+6167,2896,0,Mysterious Book(Forensic-Inscription),interest,yellow,5
+6163,2885,0,Dust(Forensic),interest,yellow,5
+4545,1316,0,Damaged Headstone(Forensic),point,yellow,5
+4550,1306,0,Hidden door(DH-Forensic)(carthax),point,yellow,5
+6198,2893,0,Exit to Moonglow Cemetery,exit,yellow,5
+6207,2884,0,Mysterious Book(Forensic-Inscription),interest,yellow,5
+6208,2885,0,Dust(Forensic),interest,yellow,5
+723,1104,0,Damaged Headstone(Forensic),point,yellow,5
+712,1104,0,Hidden door(DH-Forensic)(tenebrae),point,yellow,5
+6294,2891,0,Exit to Yew Cemetery,exit,yellow,5
+6294,2887,0,Mysterious Book(Forensic-Inscription),interest,yellow,5
+6291,2875,0,Dust(Forensic),interest,yellow,5
+1378,1445,0,Damaged Headstone(Forensic),point,yellow,5
+1369,1465,0,Hidden door(DH-Forensic)(boreas),point,yellow,5
+6242,2892,0,Exit to Britain Cemetery,exit,yellow,5
+6240,2885,0,Mysterious Book(Forensic-Inscription),interest,yellow,5
+6256,2889,0,Dust(Forensic),interest,yellow,5
+4325,949,0,Cryptologist Jonah,point,yellow,5
+5808,3270,0,Sage Humbolt the Ghost(Spirit Speak),point,yellow,5
+1382,1447,0,Detective Branch - Grave Digger,point,yellow,5
+1675,1594,0,Detective Branch - Chief Inspector Jasper,point,yellow,5
+2719,2188,0,NPC: Ronald The Pirate [Doubloons Trade],interest,yellow,5

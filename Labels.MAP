@@ -1,0 +1,105 @@
+3
++EXIT: 6105 80 0 secret exit 
++EXIT: 6105 80 1 secret exit 
++POINT: 5955 90 0 drop 
++EXIT: 6025 197 0 abyssal 
++POINT: 5305 534 0 , 
++POINT: 5305 534 1 , 
++POINT: 2504 563 0 drop 
++POINT: 5217 582 0 , 
++POINT: 5217 582 1 , 
++POINT: 5306 654 0 , 
++POINT: 5306 654 1 , 
++EXIT: 5304 677 0 primevil 
++TELEPORTER: 7049 708 0 fire 
++POINT: 949 713 0 faction recall 
++SHRINE: 6934 725 0 shrine 
++POINT: 6995 733 0 abyssal champ 
++POINT: 5391 757 0 , 
++POINT: 5218 758 0 , 
++POINT: 5218 758 1 , 
++TELEPORTER: 6973 800 0 hythloth 
++POINT: 6991 801 0 drop 
++POINT: 5143 802 0 . 
++POINT: 658 817 0 drop 
++BLACKSMITH: 748 822 0 House 
++POINT: 5406 859 0 , 
++POINT: 5320 981 0 drop from eodon 
++POINT: 5137 985 0 , 
++POINT: 5137 985 1 , 
++TELEPORTER: 6942 986 0 lost lands 
++SHRINE: 6948 987 0 shrine 
++EXIT: 5135 993 0 eodon 
++TELEPORTER: 7043 1092 0 oasis 
++POINT: 7104 1092 0 drop 
++POINT: 4471 1177 0 drop 
++POINT: 4471 1177 1 drop 
++POINT: 5867 1411 0 hythloth drop 
++TERRAIN: 559 1484 5 Sakkhra Tribe 
++TERRAIN: 401 1587 5 Utali Tribe 
++POINT: 451 1696 5 turtle champ 
++POINT: 1431 1696 0 drop 
++TERRAIN: 647 1737 5 Barako Tribe 
++POINT: 5143 1761 0 drop 
++TERRAIN: 199 1780 5 Barrab Tribe 
++TELEPORTER: 6949 1816 0 to desert 
++SHRINE: 6990 1829 0 ankh 
++TERRAIN: 366 1853 5 Kurak Tribe 
++MOONGATE: 719 1863 5 moongate 
++POINT: 7043 1888 0 Turtle Champ 
++POINT: 7043 1888 1 Turtle Champ 
++RUINS: 643 1896 5 ruins 
++TELEPORTER: 7031 1964 0 to destard 
++POINT: 7030 2098 0 drop 
++TERRAIN: 687 2109 5 Jukari Tribe 
++POINT: 598 2154 0 drop 
++EXIT: 543 2191 5 exit 
++SHRINE: 504 2192 5 ankh 
++CASTLE: 497 2193 5 Shadowguard 
+-SHIPWRIGHT: 4550 2329 1 Fish Market 
++TELEPORTER: 5972 2421 0 , 
++TELEPORTER: 5972 2421 1 , 
++POINT: 3691 2522 0 drop 
++POINT: 5405 2640 0 drop 
++POINT: 1907 2688 0 drop 
++POINT: 1907 2688 1 drop 
++POINT: 5815 2962 0 drop from eodon 
++TELEPORTER: 6096 3052 0 to marble 
++POINT: 5244 3119 0 drop in 
++POINT: 5523 3376 0 drop from primevil 
++TELEPORTER: 1142 3621 0 to main isle 
++POINT: 1124 3623 0 from main isle 
++POINT: 1325 3779 0 drop 
++TELEPORTER: 1409 3824 0 to farms 
++POINT: 1414 3828 0 from south isle or farms 
++TELEPORTER: 1419 3832 0 to south isle 
++POINT: 5501 3974 0 , 
++TELEPORTER: 1406 3996 0 to main isle 
++POINT: 1466 4015 0 from main Isle 
++POINT: 4539 890 0 from town centre 
++POINT: 4539 890 1 from town centre 
++TELEPORTER: 4540 898 0 to town centre 
++TELEPORTER: 4540 898 1 to town centre 
++TELEPORTER: 4663 1134 0 to town centre 
++TELEPORTER: 4663 1134 1 to town centre 
++POINT: 4671 1135 0 from town centre 
++POINT: 4671 1135 1 from town centre 
++TELEPORTER: 4449 1115 0 to telescope (east) 
++TELEPORTER: 4449 1115 1 to telescope (east) 
++TELEPORTER: 4449 1107 0 to mages (north) 
++TELEPORTER: 4449 1107 1 to mages (north) 
++POINT: 4300 992 0 from town centre 
++POINT: 4300 992 1 from town centre 
++TELEPORTER: 4300 968 0 to town centre 
++TELEPORTER: 4300 968 1 to town centre 
++TELEPORTER: 4436 1107 0 to Lyceaeum (west) 
++TELEPORTER: 4436 1107 1 to Lyceaeum (west) 
++POINT: 4539 890 0 from town centre 
++POINT: 4539 890 1 from town centre 
++TELEPORTER: 4540 898 0 to town centre 
++TELEPORTER: 4540 898 1 to town centre 
++POINT: 4671 1135 0 from town centre 
++POINT: 4671 1135 1 from town centre 
++TELEPORTER: 4663 1134 0 to town centre 
++TELEPORTER: 4663 1134 1 to town centre 
+
