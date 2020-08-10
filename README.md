@@ -9,7 +9,7 @@
 
 ## Info
 
-- You can also you MapFixxer for converting your old personal markers.
+- You can also use MapFixxer for converting your old personal markers.
 - [MarkerFixer](https://github.com/odhinn/cuo-marker-fixer)
 
 ## 	Associated Links
